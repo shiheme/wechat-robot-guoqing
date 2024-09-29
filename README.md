@@ -1,7 +1,10 @@
 Wechat Robot公众号国庆头像合成
 ============
 本插件用于公众号国庆头像合成，是一个WordPress插件。基于Wechat Robot开源插件二次开发  
-原插件地址：http://github.com/wangvsa/wechat-robot  
+原插件地址：http://github.com/wangvsa/wechat-robot   
+
+最新版本下载： https://github.com/shiheme/wechat-robot-guoqing 
+公众号最新教程： https://mp.weixin.qq.com/s/JJ7fWQEEZtjt-RocwF6yQw 
 
 
 ## 功能列表

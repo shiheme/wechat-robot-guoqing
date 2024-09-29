@@ -27,6 +27,8 @@ function wechat_robot_redirect($wp)
     // 消息加解密方式： 明文模式
     // 搜索公众号【比比小鱼哥】可以体验生成国庆头像的交互
     // 还不懂搜索公众号【app比比】进群问群友，这里汇集了比比源码的爱好者
+    // 最新版本下载：https://github.com/shiheme/wechat-robot-guoqing
+    // 或者前往查看：https://mp.weixin.qq.com/s/JJ7fWQEEZtjt-RocwF6yQw
     $robot = new WechatRobot("wechat", "wxd92aa3b9312c96e5", "48b894699a2f9b09cfd0e23b75e1f7a5", true);
     // 删除了源代码的创建菜单，需要的自行前往源码http://github.com/wangvsa/wechat-robot
     $robot->run();
